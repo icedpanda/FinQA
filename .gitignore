@@ -3,6 +3,11 @@
 *.pt
 
 # outputs
-code/retriever/output
-/weights
-code/retriever//cache
+**/code/retriever/output
+**/weights
+**/code/retriever/cache
+
+# pycharm config stuff
+.idea/
+__pycache__/
+*.pyc
