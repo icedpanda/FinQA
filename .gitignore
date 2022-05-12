@@ -3,6 +3,6 @@
 *.pt
 
 # outputs
-./output
-./weights
-./cache
+code/retriever/output
+/weights
+code/retriever//cache
