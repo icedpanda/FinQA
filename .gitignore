@@ -1,6 +1,7 @@
 # pytorch model weights
 
 *.pt
+*.bin
 
 # outputs
 **/code/retriever/output
