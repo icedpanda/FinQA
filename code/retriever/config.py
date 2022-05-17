@@ -1,5 +1,3 @@
-
-
 class parameters():
 
     prog_name = "retriever"
@@ -27,7 +25,8 @@ class parameters():
     # pretrained_model = "roberta"
     # model_size = "roberta-base"
 
-    # train or test
+    # train, test, or private
+    # private: for testing private test data
     device = "cuda"
     mode = "train"
     resume_model_path = ""
